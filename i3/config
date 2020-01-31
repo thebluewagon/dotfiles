@@ -20,7 +20,13 @@ bindsym $mod+d exec dmenu_run
 bindsym $mod+c exec code
 
 # start firefox
-bindsym $mod+F1 exec firefox
+bindsym $mod+f exec firefox
+
+# start gimp
+bindsym $mod+g exec gimp
+
+# take a screenshot
+bindsym $mod+u exec scrot
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -52,7 +58,7 @@ bindsym $mod+h split h
 bindsym $mod+v split v
 
 # enter fullscreen mode for the focused container
-bindsym $mod+f fullscreen
+bindsym $mod+Shift+f fullscreen
 
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
