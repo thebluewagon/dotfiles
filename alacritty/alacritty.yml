@@ -182,34 +182,34 @@ font:
 # If `true`, bold text is drawn using the bright color variants.
 #draw_bold_text_with_bright_colors: true
 
-# Colors (Monokai Pro)
+# Colors (Blues)
 colors:
   # Default colors
   primary:
-    background: '0x111111'
-    foreground: '0xFFB6C1'
+    background: '0x0f2b3e'
+    foreground: '0xd6e9f5'
 
   # Normal colors
   normal:
-    black:   '0x403E41'
-    red:     '0xFF6188'
-    green:   '0xA9DC76'
-    yellow:  '0xFFD866'
-    blue:    '0xAB9DF2'
-    magenta: '0xFC9867'
-    cyan:    '0x78DCE8'
-    white:   '0xFCFCFA'
+    black:   '0x0a1d29'
+    red:     '0x21618c'#
+    green:   '0x2773a5'
+    yellow:  '0x308fcf'#
+    blue:    '0x5aa6d8'#
+    magenta: '0x83bce2'
+    cyan:    '0xacd2ec'#
+    white:   '0xd6eaf8'
 
   # Bright colors
   bright:
-    black:   '0x727072'
-    red:     '0xFF6188'
-    green:   '0xA9DC76'
-    yellow:  '0xFFD866'
-    blue:    '0xAB9DF2'
-    magenta: '0xFC9867'
-    cyan:    '0x78DCE8'
-    white:   '0xFCFCFA'
+    black:   '0x0a1d29'
+    red:     '0x21618c'#
+    green:   '0x2773a5'
+    yellow:  '0x308fcf'#
+    blue:    '0x5aa6d8'#
+    magenta: '0x83bce2'
+    cyan:    '0xacd2ec'#
+    white:   '0xd6eaf8'
 
 # Visual Bell
 #
